@@ -1,0 +1,1 @@
+Testing React adaptor for js library
