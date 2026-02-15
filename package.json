@@ -1,0 +1,34 @@
+{
+  "name": "react-simple-canvas-shapes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manfrin92/react-simple-canvas-shapes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Manfrin92/react-simple-canvas-shapes/issues"
+  },
+  "homepage": "https://github.com/Manfrin92/react-simple-canvas-shapes#readme",
+  "dependencies": {
+    "react": ">=18",
+    "simple-canvas-shapes": "^0.0.8"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "typescript": "^5.9.3"
+  }
+}
