@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { createRender } from "simple-canvas-shapes";
 
 export interface ShapeProps {
-    shape: "circle" | "square";
+    shape: "circle" | "square" | "triangle";
     size: number;
     color: string;
     width?: number;
